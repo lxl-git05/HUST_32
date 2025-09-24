@@ -8,8 +8,6 @@
 
 ​	1ms中断一次,回调函数为`HAL_SYSTICK_Callback`
 
-
-
 ## 2. 外设配置
 
 ### 2-1 OLED
