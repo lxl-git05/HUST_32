@@ -1,11 +1,11 @@
 # Prerequisites
-*.d
+#*.d
 
 # Compiled Object files
 *.slo
 *.lo
-*.o
-*.obj
+#*.o
+#*.obj
 
 # Precompiled Headers
 *.gch
@@ -34,7 +34,7 @@
 
 # Executables
 *.exe
-*.out
+# *.out
 *.app
 
 # debug information files
@@ -124,3 +124,4 @@ Thumbs.db        # Windows 缩略图缓存
 **/uv4.log
 **/uv4.log.lock
 **/Template.build_log.htm
+/.idea/
