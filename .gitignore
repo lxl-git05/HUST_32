@@ -86,8 +86,10 @@ out/             # 默认编译输出目录
 # VS Code
 # =================
 
-.vscode/         # VS Code 配置目录
-*.code-workspace # VS Code 工作区文件
+# 忽略所有 .vscode 目录
+**/.vscode/ 
+# VS Code 工作区文件
+*.code-workspace 
 
 # 可选：只保留部分配置（如要共享调试/编译配置）
 # .vscode/*
